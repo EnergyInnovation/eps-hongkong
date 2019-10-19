@@ -1,0 +1,14 @@
+Electricity Source,Max Potential Capacity (MW)
+hard coal,900000
+natural gas nonpeaker,900000
+nuclear,3000
+hydro,1.714
+onshore wind,2
+solar PV,250
+solar thermal,0
+biomass,300
+geothermal,0
+petroleum,2000
+natural gas peaker,900000
+lignite,0
+offshore wind,300
