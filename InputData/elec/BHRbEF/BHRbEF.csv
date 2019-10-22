@@ -1,4 +1,4 @@
-﻿,preexisting,preexisting nonretiring (not used in U.S. dataset),newly built
+Heat Rate by Electricity Fuel BTU/(MW*hour),preexisting,preexisting nonretiring (not used in U.S. dataset),newly built
 hard coal,10324180,0,10375000
 natural gas nonpeaker,7565724,0,6800000
 nuclear,10459000,0,10450000
@@ -12,3 +12,6 @@ petroleum,16171287,0,10000000
 natural gas peaker,11378000,0,9650000
 lignite,11217974,0,11273193
 offshore wind,0,0,0
+crude oil,10834000,0,10000000
+heavy or residual fuel oil,10834000,0,10000000
+municipal solid waste,14500000,0,14500000

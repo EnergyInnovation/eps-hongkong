@@ -6,9 +6,12 @@ hydro,1.714
 onshore wind,2
 solar PV,250
 solar thermal,0
-biomass,300
+biomass,0
 geothermal,0
-petroleum,2000
+petroleum,0
 natural gas peaker,900000
 lignite,0
 offshore wind,300
+crude oil,9.00E+12
+heavy or residual fuel oil,9.00E+12
+municipal solid waste,8031

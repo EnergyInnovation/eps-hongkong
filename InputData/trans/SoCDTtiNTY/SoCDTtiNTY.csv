@@ -1,7 +1,7 @@
-,passenger,freight
-LDVs,0.0815,0.083
-HDVs,0.065,0.066
-aircraft,0.0416,0.0425
-rail,0.043,0.029
+Share that is New (dimensionless),passenger,freight
+LDVs,0.076,0.07
+HDVs,0.0435,0.035
+aircraft,0.0416,0.042
+rail,0.029,0.029
 ships,0.02982,0.0303
-motorbikes,0.14,0
+motorbikes,0.0587,0

@@ -1,7 +1,16 @@
-,battery electric vehicle,natural gas vehicle,gasoline vehicle,diesel vehicle,plugin hybrid vehicle,nonroad vehicle
-LDVs,1.035E-03,3.252E-04,3.252E-04,3.252E-04,7.158E-04,0
-HDVs,4.377E-03,1.362E-03,1.362E-03,1.362E-03,3.020E-03,0
-aircraft,0,0,0,0,0,4.544E-04
-rail,0,0,0,0,0,9.230E-04
-ships,0,0,0,0,0,9.798E-06
-motorbikes,3.742E-03,1.175E-03,1.175E-03,1.175E-03,2.587E-03,0
+Fuel Economy (passenger*miles/BTU),battery electric vehicle,natural gas vehicle,gasoline vehicle,diesel vehicle,plugin hybrid vehicle,LPG vehicle,hydrogen vehicle
+LDVs,1.04E-03,3.25E-04,3.25E-04,3.25E-04,7.16E-04,2.38E-04,7.68E-04
+HDVs,4.38E-03,1.36E-03,1.36E-03,1.36E-03,3.02E-03,6.72E-04,2.17E-03
+aircraft,0,0,0,0,0,0,1.14E-03
+rail,0,0,0,0,0,0,2.13E-03
+ships,0,0,0,0,0,0,2.54E-05
+motorbikes,3.74E-03,1.18E-03,1.18E-03,1.18E-03,2.59E-03,8.46E-04,2.73E-03
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
