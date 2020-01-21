@@ -18,4 +18,5 @@ Documentation of the model is available [here](https://us.energypolicy.solutions
 ## Other Information
 
 * [Acknowledgement of Contributors to Hong Kong Adaptation](acknowledgement.html)
+* [Hong Kong EPS Version History](version-history.html)
 * [Software License Information](software-license.html)
