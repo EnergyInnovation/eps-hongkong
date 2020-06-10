@@ -1,7 +1,7 @@
-Vehicle Lifetime (years),Passenger,Freight
-LDVs,12,12
-HDVs,15,15
-aircraft,24,24
-rail,23,23
-ships,32,32
-motorbikes,7,12
+Vehicle,Lifetime (yr),Freight,
+LDVs,16,,
+HDVs,15,,
+aircraft,24,,
+rail,23,,
+ships,32,,
+motorbikes,7,12,<-Taxi following LDVs

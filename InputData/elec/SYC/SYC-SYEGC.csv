@@ -1,17 +1,27 @@
-Start Year Capacities (MW),preexisting,preexisting nonretiring (not used in U.S. dataset),newly built
-hard coal,6100,0,0
-natural gas nonpeaker,3180,0,0
-nuclear,0,0,0
-hydro,0.5,0,0
-onshore wind,0.8,0,0
-solar PV,4.8,0,0
-solar thermal,0,0,0
-biomass,0,0,0
-geothermal,0,0,0
-petroleum,0,0,0
-natural gas peaker,555,0,0
-lignite,0,0,0
-offshore wind,0,0,0
-crude oil,0,0,0
-heavy or residual fuel oil,0,0,0
-municipal solid waste,0,0,0
+,preexisting,preexisting nonretiring (not used in U.S. dataset),newly built,,,,
+hard coal,6100,0,0,,,,
+natural gas nonpeaker,"3,180",0,0,,,,
+nuclear,0,0,0,,,,
+hydro,0.5,0,0,,,,
+onshore wind,0.8,0,0,,,,
+solar PV,4.8,0,0,,,,
+solar thermal,0,0,0,,,,
+biomass,0,0,0,,,,
+geothermal,0,0,0,,,,
+petroleum (+diesel),300,0,0,,"for petroleum, changed 300 to 0 in the csv file, bebause ",,
+natural gas peaker,555,0,0,,,,
+lignite,0,0,0,,,,
+offshore wind,0,0,0,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

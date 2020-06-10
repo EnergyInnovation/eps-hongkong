@@ -1,32 +1,26 @@
-hard coal,Installed Capacity (MW),0,999999999
-,Max Growth Amount (MW),1050,1050
-natural gas nonpeaker,Installed Capacity (MW),0,999999999
-,Max Growth Amount (MW),100000,100000
-nuclear,Installed Capacity (MW),0,999999999
-,Max Growth Amount (MW),1380,1380
-hydro,Installed Capacity (MW),0,999999999
-,Max Growth Amount (MW),0.5,0.5
-wind,Installed Capacity (MW),0,999999999
-,Max Growth Amount (MW),80,80
-solar PV,Installed Capacity (MW),0,999999999
-,Max Growth Amount (MW),500,500
-solar thermal,Installed Capacity (MW),0,999999999
-,Max Growth Amount (MW),100,100
-biomass,Installed Capacity (MW),0,999999999
-,Max Growth Amount (MW),0,0
-geothermal,Installed Capacity (MW),0,999999999
-,Max Growth Amount (MW),0,0
-petroleum,Installed Capacity (MW),0,999999999
-,Max Growth Amount (MW),0,0
-natural gas peaker,Installed Capacity (MW),0,999999999
-,Max Growth Amount (MW),895,895
-lignite,Installed Capacity (MW),0,999999999
-,Max Growth Amount (MW),500,500
-offshore wind,Installed Capacity (MW),0,999999999
-,Max Growth Amount (MW),200,200
-crude oil,Installed Capacity (MW),0,999999999
-,Max Growth Amount (MW),0,0
-heavy or residual fuel oil,Installed Capacity (MW),0,999999999
-,Max Growth Amount (MW),0,0
-municipal solid waste,Installed Capacity (MW),0,999999999
-,Max Growth Amount (MW),407.2,407.2
+hard coal,Installed Capacity,0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Max Growth Amount,1050,1050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+natural gas nonpeaker,Installed Capacity,0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Max Growth Amount,100000,100000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+nuclear,Installed Capacity,0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Max Growth Amount,1380,1380,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+hydro,Installed Capacity,0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Max Growth Amount,0.5,0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+wind,Installed Capacity,0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Max Growth Amount,80,80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+solar PV,Installed Capacity,0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Max Growth Amount,500,500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+solar thermal,Installed Capacity,0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Max Growth Amount,100,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+biomass,Installed Capacity,0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Max Growth Amount,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+geothermal,Installed Capacity,0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Max Growth Amount,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+petroleum,Installed Capacity,0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Max Growth Amount,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+natural gas peaker,Installed Capacity,0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Max Growth Amount,895,895,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+lignite,Installed Capacity,0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Max Growth Amount,500,500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+offshore wind,Installed Capacity,0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Max Growth Amount,200,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
