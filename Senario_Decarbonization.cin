@@ -1,5 +1,5 @@
 Additional Minimum Required EV Sales Percentage[passenger,LDVs] = 1
-Additional Minimum Required EV Sales Percentage[passenger,HDVs] = 1
+Additional Minimum Required EV Sales Percentage[passenger,HDVs] = 0.5
 Additional Minimum Required EV Sales Percentage[passenger,motorbikes] = 1
 Additional Minimum Required EV Sales Percentage[freight,LDVs] = 1
 Additional Minimum Required EV Sales Percentage[freight,motorbikes] = 1
@@ -16,6 +16,8 @@ Fraction of New Bldg Components Shifted to Other Fuels[other component,commercia
 Fraction of Potential Additional CCS Achieved = 0.99
 Fraction of TDM Package Implemented[passenger] = 1
 Fraction of TDM Package Implemented[freight] = 1
+Minimum Required Hydrogen Vehicle Sales Percentage[passenger,HDVs] = 0.5
+Minimum Required Hydrogen Vehicle Sales Percentage[freight,HDVs] = 1
 Percent Change in Electricity Imports = 0.8
 Percentage Additional Improvement of Fuel Economy Std[passenger,LDVs] = 0.3
 Percentage Additional Improvement of Fuel Economy Std[passenger,HDVs] = 0.3
@@ -24,6 +26,7 @@ Percentage Additional Improvement of Fuel Economy Std[freight,LDVs] = 0.3
 Percentage Additional Improvement of Fuel Economy Std[freight,HDVs] = 0.3
 Percentage Additional Improvement of Fuel Economy Std[freight,motorbikes] = 0.3
 Percentage Improvement in Eqpt Efficiency Standards above BAU[other industries] = 0.3
+Policy Implementation Schedule Selector = 2
 Reduce EV Range Anxiety and Charging Time = 0.5
 Reduction in E Use Allowed by Component Eff Std[cooling and ventilation,urban residential] = 0.4
 Reduction in E Use Allowed by Component Eff Std[cooling and ventilation,rural residential] = 0.4
@@ -41,6 +44,6 @@ Reduction in E Use Allowed by Component Eff Std[other component,urban residentia
 Reduction in E Use Allowed by Component Eff Std[other component,rural residential] = 0.11
 Reduction in E Use Allowed by Component Eff Std[other component,commercial] = 0.11
 Renewable Portfolio Std Percentage = 0.1
-Share of Preexisting Buildings Subject to Retrofitting[urban residential] = 0.48
-Share of Preexisting Buildings Subject to Retrofitting[rural residential] = 0.48
-Share of Preexisting Buildings Subject to Retrofitting[commercial] = 0.48
+Share of Preexisting Buildings Subject to Retrofitting[urban residential] = 0.3
+Share of Preexisting Buildings Subject to Retrofitting[rural residential] = 0.3
+Share of Preexisting Buildings Subject to Retrofitting[commercial] = 0.3
