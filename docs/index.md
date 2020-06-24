@@ -9,7 +9,7 @@ The Alberta Energy Policy Simulator (EPS) is a free and open-source computer mod
 
 The Hong Kong Energy Policy Simulator may be used on this website through your web browser, or the full version may be downloaded to your computer by clicking the button below.  Note that you will need to go through the steps explained on the [EPS download page](https://us.energypolicy.solutions/docs/download.html) in order to install the required software and make use of the downloadable version of the model.
 
-<p><a href="https://github.com/Energy-Innovation/eps-hongkong/archive/2.0.0.2.zip" class="btn">Download the Hong Kong Energy Policy Simulator</a></p>
+<p><a href="https://github.com/Energy-Innovation/eps-hongkong/archive/2.0.0.3.zip" class="btn">Download the Hong Kong Energy Policy Simulator</a></p>
 
 ## Documentation
 
