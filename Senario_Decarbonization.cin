@@ -19,6 +19,7 @@ Fraction of TDM Package Implemented[freight] = 1
 Minimum Required Hydrogen Vehicle Sales Percentage[passenger,HDVs] = 0.5
 Minimum Required Hydrogen Vehicle Sales Percentage[freight,HDVs] = 1
 Percent Change in Electricity Imports = 0.8
+Percent Reduction in Nonenergy Nonagriculture Industry Product Demand[other industries] = 0.3
 Percentage Additional Improvement of Fuel Economy Std[passenger,LDVs] = 0.3
 Percentage Additional Improvement of Fuel Economy Std[passenger,HDVs] = 0.3
 Percentage Additional Improvement of Fuel Economy Std[passenger,motorbikes] = 0.3
